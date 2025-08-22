@@ -11,8 +11,8 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
 <table>
     <tr>
         <td><img src="https://raw.githubusercontent.com/CausalBenchOrg/.github/refs/heads/main/profile/images/nsf_logo.png" alt="NSF Logo" height="60"/></td>
-        <td>K. Selcuk Candan and Huan Liu. 2023. <br>
-            NSF OAC Grant # 2311716: Elements: CausalBench: A Cyberinfrastructure for Causal-Learning Benchmarking for Efficacy, Reproducibility, and Scientific Collaboration. <br>
+        <td><i>K. Selcuk Candan</i> and <i>Huan Liu</i>. 2023. <br>
+            <b>NSF OAC Grant # 2311716</b>: Elements: CausalBench: A Cyberinfrastructure for Causal-Learning Benchmarking for Efficacy, Reproducibility, and Scientific Collaboration. <br>
             <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311716" target="_BLANK">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311716</a>
         </td>
     </tr>
