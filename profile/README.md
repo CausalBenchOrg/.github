@@ -6,9 +6,7 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
     <img src="https://causalbench.org/assets/images/nsf_logo.png" alt="NSF Logo" height="60"/>
 </p>
 
----
-
-This research is funded through:
+### This research is funded through:
 
 <table>
     <tr>
