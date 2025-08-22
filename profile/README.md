@@ -13,7 +13,7 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
         <td><img src="https://raw.githubusercontent.com/CausalBenchOrg/.github/refs/heads/main/profile/images/nsf_logo.png" alt="NSF Logo" height="60"/></td>
         <td><i>K. Selcuk Candan</i> and <i>Huan Liu</i>. 2023. <br>
             <b>NSF OAC Grant # 2311716</b>: Elements: CausalBench: A Cyberinfrastructure for Causal-Learning Benchmarking for Efficacy, Reproducibility, and Scientific Collaboration. <br>
-            <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311716" target=_BLANK>https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311716</a>
+            <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311716">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311716</a>
         </td>
     </tr>
     <tr>
@@ -21,7 +21,7 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
         <td>
             <i>Zheng O’Neill</i> and <i>K. Selcuk Candan</i> and <i>Teresa Wu</i> and <i>Jin Wen</i> and <i>Christina Rosan</i>. 2022. <br>
             <b>NSF OISE Grant # 2230748</b>: PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems. <br>
-            <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230748" target=_BLANK>https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230748</a>
+            <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230748">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230748</a>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
         <td>
             <i>Nina H Fefferman</i> and <i>K. Selcuk Candan</i> and <i>Sadie J Ryan</i> and <i>Lydia Bourouiba</i> and <i>Shelby N Wilson</i>. 2024. <br>
             <b>NSF DBI Grant # 2412115</b>: PIPP Phase II: Analysis and Prediction of Pandemic Expansion (APPEX). <br>
-            <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412115" target=_BLANK>https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412115</a>
+            <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412115">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412115</a>
         </td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
         <td>
             <i>K. Selcuk Candan</i> and <i>Huan Liu</i> and <i>Tianfang Xu</i> and <i>Theodore Pavlic</i> and <i>Giuseppe Mascaro</i> and <i>Ross Maciejewski</i> and <i>Rebecca Muenich</i> and <i>Amber Wutich</i> and <i>Jorge Sefair</i>. 2021. <br>
             <b>USACE Grant # GR40695</b>: Designing nature to enhance resilience of built infrastructure in western US landscapes, Reproducibility, and Scientific Collaboration. <br>
-            <a href="https://experts.azregents.edu/en/projects/designing-nature-to-enhance-resilience-of-built-infrastructure-in" target=_BLANK>https://experts.azregents.edu/en/projects/designing-nature-to-enhance-resilience-of-built-infrastructure-in</a>
+            <a href="https://experts.azregents.edu/en/projects/designing-nature-to-enhance-resilience-of-built-infrastructure-in">https://experts.azregents.edu/en/projects/designing-nature-to-enhance-resilience-of-built-infrastructure-in</a>
         </td>
     </tr>
 </table>
