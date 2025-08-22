@@ -33,7 +33,7 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
         </td>
     </tr>
     <tr>
-        <td valign="top"><img src="https://www.usace.army.mil/Portals/_default/Skins/USACETheme/Assets/images/usace-logo-color.svg" alt="USACE Logo" height="60"/></td>
+        <td valign="top"><img src="https://raw.githubusercontent.com/CausalBenchOrg/.github/refs/heads/main/profile/images/usace-logo.png" alt="USACE Logo" height="60"/></td>
         <td>
             K. Selcuk Candan and Huan Liu and Tianfang Xu and Theodore Pavlic and Giuseppe Mascaro and Ross Maciejewski and Rebecca Muenich and Amber Wutich and Jorge Sefair. 2021. <br>
             USACE Grant # GR40695: Designing nature to enhance resilience of built infrastructure in western US landscapes, Reproducibility, and Scientific Collaboration. <br>
