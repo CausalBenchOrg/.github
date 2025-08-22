@@ -19,24 +19,24 @@ CausalBench is a transparent, fair, and easy-to-use causal benchmarking platform
     <tr>
         <td><img src="https://raw.githubusercontent.com/CausalBenchOrg/.github/refs/heads/main/profile/images/nsf_logo.png" alt="NSF Logo" height="60"/></td>
         <td>
-            Zheng O’Neill and K. Selcuk Candan and Teresa Wu and Jin Wen and Christina Rosan. 2022. <br>
-            NSF OISE Grant # 2230748: PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems. <br>
+            <i>Zheng O’Neill</i> and <i>K. Selcuk Candan</i> and <i>Teresa Wu</i> and <i>Jin Wen</i> and <i>Christina Rosan</i>. 2022. <br>
+            <b>NSF OISE Grant # 2230748</b>: PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems. <br>
             <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230748" target="_BLANK">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230748</a>
         </td>
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/CausalBenchOrg/.github/refs/heads/main/profile/images/nsf_logo.png" alt="NSF Logo" height="60"/></td>
         <td>
-            Nina H Fefferman and K. Selcuk Candan and Sadie J Ryan and Lydia Bourouiba and Shelby N Wilson. 2024. <br>
-            NSF DBI Grant # 2412115: PIPP Phase II: Analysis and Prediction of Pandemic Expansion (APPEX). <br>
+            <i>Nina H Fefferman</i> and <i>K. Selcuk Candan</i> and <i>Sadie J Ryan</i> and <i>Lydia Bourouiba</i> and <i>Shelby N Wilson</i>. 2024. <br>
+            <b>NSF DBI Grant # 2412115</b>: PIPP Phase II: Analysis and Prediction of Pandemic Expansion (APPEX). <br>
             <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412115" target="_BLANK">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412115</a>
         </td>
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/CausalBenchOrg/.github/refs/heads/main/profile/images/usace_logo.png" alt="USACE Logo" height="60"/></td>
         <td>
-            K. Selcuk Candan and Huan Liu and Tianfang Xu and Theodore Pavlic and Giuseppe Mascaro and Ross Maciejewski and Rebecca Muenich and Amber Wutich and Jorge Sefair. 2021. <br>
-            USACE Grant # GR40695: Designing nature to enhance resilience of built infrastructure in western US landscapes, Reproducibility, and Scientific Collaboration. <br>
+            <i>K. Selcuk Candan</i> and <i>Huan Liu</i> and <i>Tianfang Xu</i> and <i>Theodore Pavlic</i> and <i>Giuseppe Mascaro</i> and <i>Ross Maciejewski</i> and <i>Rebecca Muenich</i> and <i>Amber Wutich</i> and <i>Jorge Sefair</i>. 2021. <br>
+            <b>USACE Grant # GR40695</b>: Designing nature to enhance resilience of built infrastructure in western US landscapes, Reproducibility, and Scientific Collaboration. <br>
             <a href="https://experts.azregents.edu/en/projects/designing-nature-to-enhance-resilience-of-built-infrastructure-in" target="_BLANK">https://experts.azregents.edu/en/projects/designing-nature-to-enhance-resilience-of-built-infrastructure-in</a>
         </td>
     </tr>
